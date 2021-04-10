@@ -1,17 +1,17 @@
 this
 
-is 
-
-the
-
-third
+is
 
 example
 
-file
+made
+
+on 
+
+github
 
 to
 
-be
+cause
 
-tested
+conflict
